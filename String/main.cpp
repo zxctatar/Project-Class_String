@@ -5,5 +5,6 @@
 
 int main()
 {
-
+	String a({ "Hello" });
+	std::cout << a.GetCapacity();
 }

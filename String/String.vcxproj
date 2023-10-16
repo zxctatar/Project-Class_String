@@ -129,7 +129,6 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="String.cpp" />
-    <ClCompile Include="cin_cout.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cin_cout.h" />
